@@ -2,4 +2,10 @@ streamlit
 pandas
 numpy
 matplotlib
+<<<<<<< HEAD
+scikit-learn
+KNeighborsClassifier
+=======
 sklearn
+
+>>>>>>> d648cdfadbb9e1af38913b9552151398ee37406a
